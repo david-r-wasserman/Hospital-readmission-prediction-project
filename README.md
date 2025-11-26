@@ -2,7 +2,7 @@
 By Dr. David Wasserman
 
 ## Analysis goal:
-Given the data from a hospital visit, predict whether or not the patient will be readmitted within 30 days. I will train a classifier on a subset of the dataset, and test it on an unseen portion of the dataset, with the goal of achieving a high area under curve (AUC) metric.
+Given the data from a hospital visit, predict whether or not the patient will be readmitted within 30 days. I trained a classifier on a subset of the dataset, and tested it on an unseen portion of the dataset, with the goal of achieving a high area under curve (AUC) metric.
 
 **Note**: medical practice has changed since 2008, so the resulting model should not be expected to work well with current data. It is intended to shows the skills I would use if I was working with current data.
 
